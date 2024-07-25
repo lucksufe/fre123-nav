@@ -1,64 +1,4 @@
 {
-	"search": {
-		"name": "综合",
-		"is_show": true,
-		"list": [
-			{
-				"name": "谷歌",
-				"url": "https://google.com/search?igu=1&q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
-				"is_show": true
-			},
-			{
-				"name": "必应",
-				"url": "https://cn.bing.com/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/26/65630386088eb.png",
-				"is_show": true
-			},
-			{
-				"name": "百度",
-				"url": "https://www.baidu.com/s?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
-				"is_show": true
-			},
-			{
-				"name": "搜狗|微信",
-				"url": "https://weixin.sogou.com/weixin?query={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/20/65d4bc3f1dbcd.ico",
-				"is_show": true
-			},
-			{
-				"name": "duckduckgo",
-				"url": "https://duckduckgo.com/?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/22/65ae2b2740867.ico",
-				"is_show": true
-			},
-			{
-				"name": "presearch",
-				"url": "https://presearch.com/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/22/65ae2a5e16b04.png",
-				"is_show": true
-			},
-			{
-				"name": "devv.ai",
-				"url": "https://devv.ai/zh/search/{keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/25/65b26106a8645.png",
-				"is_show": true
-			},
-			{
-				"name": "nona",
-				"url": "https://www.nona.de?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/22/65ae2b62e27c0.png",
-				"is_show": false
-			},
-			{
-				"name": "yandex",
-				"url": "https://yandex.com/search/?text={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d4f90636b89.ico",
-				"is_show": true
-			}
-		]
-	},
 	"movies": {
 		"name": "影视",
 		"is_show": true,
@@ -233,7 +173,6 @@
 			}
 		]
 	},
-
 	"ebook": {
 		"name": "书籍",
 		"is_show": true,

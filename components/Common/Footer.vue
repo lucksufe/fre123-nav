@@ -4,12 +4,12 @@
 			<!-- Left -->
 			<div class="text-[14px] h-[30px]">
 				<span
-					>Powered by
+					>
 					<a
-						href="https://www.fre123.com"
+						href=""
 						target="_blank"
 						class="decoration-transparent text-[#a4715c]"
-						>FRE123</a
+						></a
 					>
 				</span>
 			</div>
