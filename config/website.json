@@ -13,44 +13,25 @@
 	"header": {
 		"search": {
 			"is_show": true,
-			"list": [
-				{
-					"name": "百度",
-					"url": "https://www.baidu.com/s?wd=",
-					"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
-					"placeholder": "百度一下，你就知道"
-				},
-				{
-					"name": "谷歌",
-					"url": "https://www.google.com/search?q=",
-					"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
-					"placeholder": "请输入您要搜索的内容..."
-				},
-				{
-					"name": "必应",
-					"url": "https://cn.bing.com/search?q=",
-					"icon": "https://img.fre123.com/i/2023/11/26/65630386088eb.png",
-					"placeholder": "请输入您要搜索的内容..."
-				}
-			]
+			"list": []
 		},
 		"right": {
 			"is_show": true,
 			"group": {
-				"name": "热点榜单",
-				"url": "",
+				"name": "功能集锦",
+				"url": "https:www.lucksufe.fun",
 				"children": [
 					{
-						"name": "新闻热榜",
-						"url": ""
+						"name": "网盘搜索",
+						"url": "https://pan.lucksufe.fun/"
 					},
 					{
-						"name": "技术热榜",
-						"url": ""
+						"name": "PDF处理",
+						"url": "https://pdf.lucksufe.fun/"
 					},
 					{
-						"name": "技术周刊",
-						"url": ""
+						"name": "简单图床",
+						"url": "https://image.lucksufe.fun/"
 					}
 				]
 			}
@@ -65,7 +46,7 @@
 				"icon_color": "#00b140",
 				"icon_hover_color": "#008733",
 				"text": "有兴趣加我进群聊聊",
-				"img": "",
+				"img": "https://image.lucksufe.fun/i/2024/07/19/m58eys.png",
 				"url": ""
 			}
 		]
@@ -77,7 +58,7 @@
 				{
 					"icon_class": "fas fa-qrcode",
 					"icon_size": 20,
-					"url": ""
+					"url": "https://image.lucksufe.fun/i/2024/07/19/m58eys.png"
 				}
 			]
 		}
