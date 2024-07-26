@@ -1,7 +1,7 @@
 {
 	"base": {
-		"app_name": "",
-		"web_host": "",
+		"app_name": "蛙蛙导航",
+		"web_host": "https://nav.lucksufe.fun",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
@@ -18,8 +18,8 @@
 		"right": {
 			"is_show": true,
 			"group": {
-				"name": "功能集锦",
-				"url": "https:www.lucksufe.fun",
+				"name": "工具箱",
+				"url": "https://www.lucksufe.fun",
 				"children": [
 					{
 						"name": "网盘搜索",
